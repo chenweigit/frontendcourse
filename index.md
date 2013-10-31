@@ -9,7 +9,7 @@
 ------------------
 ## HTML ##
 
-### 1. emment 
+### 1. emment (zencoding)
  --------------
 ## CSS 
 ----------------------
@@ -38,7 +38,7 @@
 -----------------
 
 ## HTML 模板引擎
-### ejs
+### 1. ejs
 -----------------------
 ## JS 面向对象编程
 
@@ -67,6 +67,27 @@
 --------------------------
 
 ## mogodb
+
+
+------------------
+## 工具 ##
+ - Photoshop
+  - GG
+  - 颜色适配器
+ - Markup
+ - Axure
+ - 浏览器（chrome 、 火狐、IE 、IEtest）
+  - Yslow
+  - cssviewer
+  - debug
+ - webstorm
+ - 取色器
+ - 服务器（Apache Nginx）
+ - Koala
+ - Fiddler2
+ - xmind
+ - Markdown
+ 
 
 
 
