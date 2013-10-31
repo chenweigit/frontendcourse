@@ -70,6 +70,15 @@
 
 
 ------------------
+## 版本控制器
+### 1. GIT
+### 2. SVN
+ 
+## 代码质量
+ 
+###JSLint/JSHint
+ 
+
 ## 工具 ##
  - Photoshop
   - GG
@@ -88,12 +97,7 @@
  - Fiddler2
  - xmind
  - Markdown
- - 版本控制器
-  - GIT
-  - SVN
- - 代码质量
-  - JSLint/JSHint
- 
+
  
 
 
