@@ -81,12 +81,19 @@
   - cssviewer
   - debug
  - webstorm
+ - Sublime Text2
  - 取色器
  - 服务器（Apache Nginx）
  - Koala
  - Fiddler2
  - xmind
  - Markdown
+ - 版本控制器
+  - GIT
+  - SVN
+ - 代码质量
+  - JSLint/JSHint
+  - 
  
 
 
