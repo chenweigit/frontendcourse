@@ -40,7 +40,7 @@
     - Photoshop
     - Markup
     - Axure
-    - 
+    
  - [编码工具][2]
     - webstorm
     - Sublime Text
