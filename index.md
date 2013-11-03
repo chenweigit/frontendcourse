@@ -21,7 +21,7 @@
 4. **[CSS3](high-grade/4-css3.md "CSS3")**
 5. **[CSS 高级应用/框架](high-grade/5-css高级编程-框架.md "CSS 高级应用/框架")**
 6. **[JS 面向对象编程](high-grade/6-Javascript高级编程.md "JS 面向对象编程")**
-7. **[JS 库/框架](high-grade/7-JS库-框架.md.md "JS 库/框架")**
+7. **[JS 模板引擎/库/框架](high-grade/7-模板引擎-JS库-框架.md.md "JS 库/框架")**
 8. **[性能优化](high-grade/8-性能优化.md "")**
 9. **[nodejs](high-grade/9-nodejs.md "")** 
 10. **[mogodb](high-grade/10-MongoDB.md "")**
@@ -29,7 +29,6 @@
 
 
 ## 项目
-- **[HTML 模板引擎](project/1-HTML模板引擎.md "HTML 模板引擎")**
 - **[版本管理与发布](project/2-版本管理与发布.md "版本管理与发布")**
 
 
