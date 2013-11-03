@@ -10,10 +10,11 @@
 2. **[HTML](base/2-html.md "HTML")** 
 3. **[CSS](base/3-css.md "CSS")** 
 4. **[Javascript](base/4-Javascript.md "Javascript")**
-5.  **[SEO](base/5-seo.md "SEO")**
+5. **[SEO](base/5-seo.md "SEO")**
 
 
 ## 高级阶段
+
 1. **[交互用户进阶](high-grade/1-http-restful.md "交互用户进阶")**
 2. **[http/restful](high-grade/1-http-restful.md "http/restful")**
 3. **[HTML5](high-grade/2-html5.md "HTML5")**
