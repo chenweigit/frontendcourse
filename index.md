@@ -4,26 +4,38 @@
 ## 初级阶段 
 
 1. **[交互设计基础](base/1-交互设计基础.md "交互设计基础")**  
-      >课程说明
+      >交互设计，又称互动设计，是指在人与产品、服务或系统之间创建一系列对话。,是定义、设计人造系统的行为的设计领域。人造物，即人工制成物品，例如，软件、移动设备、人造环境、服务、可佩带装置以及系统的组织结构。交互设计在于定义人造物的行为方式相关的界面。
  
 
-2. **[HTML](base/2-html.md "HTML")** 
+2. **[HTML](base/2-html.md "HTML")**
+ 
 3. **[CSS](base/3-css.md "CSS")** 
+
 4. **[Javascript](base/4-Javascript.md "Javascript")**
+
 5. **[SEO](base/5-seo.md "SEO")**
 
 
 ## 高级阶段
 
 1. **[交互用户进阶](high-grade/1-交互用户进阶.md "交互用户进阶")**
+
 2. **[http/restful](high-grade/2-http-restful.md "http/restful")**
+
 3. **[HTML5](high-grade/3-html5.md "HTML5")**
+
 4. **[CSS3](high-grade/4-css3.md "CSS3")**
+
 5. **[CSS 高级应用/框架](high-grade/5-css高级编程-框架.md "CSS 高级应用/框架")**
+
 6. **[JS 面向对象编程](high-grade/6-Javascript高级编程.md "JS 面向对象编程")**
+ 
 7. **[JS 模板引擎/库/框架](high-grade/7-模板引擎-JS库-框架.md.md "JS 库/框架")**
+
 8. **[性能优化](high-grade/8-性能优化.md "")**
+
 9. **[nodejs](high-grade/9-nodejs.md "")** 
+
 10. **[mogodb](high-grade/10-MongoDB.md "")**
 
 
@@ -36,30 +48,13 @@
 ## 工具 ##
 
  - [原型界面设计工具][1]
-    - Photoshop
-    - Markup
-    - Axure
-    
- - [编码工具][2]
-    - webstorm
-    - Sublime Text
-    - Aptana
-    - git
-    - svn
-  
-    
- - [调试测试工具][3]
-    - Yslow
-    - chrome
-    - 火狐
-    - debug(Firebug)
 
- 
+ - [编码工具][2]
+
+ - [调试测试工具][3]
+
  - [辅助工具][4]
-     - 颜色取色器
-     - cssviewer(chrome 插件)
-     - Koala
-     - Markdown
+     
 
 
   [1]: tool/%E5%8E%9F%E5%9E%8B%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%B7%A5%E5%85%B7.md
