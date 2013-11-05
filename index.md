@@ -32,11 +32,11 @@
  
 7. **[JS 模板引擎/库/框架](high-grade/7-模板引擎-JS库-框架.md.md "JS 库/框架")**
 
-8. **[性能优化](high-grade/8-性能优化.md "")**
+8. **[性能优化](high-grade/8-性能优化.md "性能优化")**
 
-9. **[nodejs](high-grade/9-nodejs.md "")** 
+9. **[nodejs](high-grade/9-nodejs.md "nodejs")** 
 
-10. **[mogodb](high-grade/10-MongoDB.md "")**
+10. **[mogodb](high-grade/10-MongoDB.md "mogodb")**
 
 
 
