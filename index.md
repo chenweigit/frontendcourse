@@ -39,6 +39,9 @@
 10. **[mogodb](high-grade/10-MongoDB.md "mogodb")**
 
 
+## 安全
+ 1. XSS
+
 
 ## 项目
 - **[版本管理与发布](project/2-版本管理与发布.md "版本管理与发布")**
